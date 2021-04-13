@@ -242,7 +242,7 @@ h6 {
 
 #showcase:before {
   content: "";
-  background: url("../img/featured.jpg") no-repeat center center/cover;
+  background: url('../img/featured.jpg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
@@ -342,5 +342,9 @@ h6 {
 
 #main-footer.list li a:hover {
   color: var(--primary-color);
+}
+
+#about {
+  height: 68vh;
 }
  
