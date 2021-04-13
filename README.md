@@ -1,3 +1,2 @@
 # newsgrid
-Sample website 
-Website made with a tutorial of Brad Traversy
+Website made with Brad Traversy tutorial
